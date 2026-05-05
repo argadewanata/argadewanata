@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tools of the Trade
+### 🛠️ Skills and Technologies
 
 **AI / ML**
 <p align="left">
