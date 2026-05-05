@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rere Arga Dewanata</h1>
-<h3 align="center">AI Engineer • Informatics Engineering Graduate from ITS 🇮🇩</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B13D,100:0D1117&height=200&section=header&text=Rere%20Arga%20Dewanata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Informatics%20Engineering%20Graduate%20from%20ITS%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descSize=16" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=16B13D&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+Systems+%E2%9C%A8;Data+Engineering+%F0%9F%93%8A;Underwater+Robotics+%F0%9F%90%9F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=16B13D&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+Systems+%E2%9C%A8;Data+Engineering+%F0%9F%93%8A;Underwater+Robotics+%F0%9F%90%9F" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
@@ -64,12 +65,17 @@
 ### 📊 Arga in Numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=argadewanata&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argadewanata&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argadewanata&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argadewanata&theme=algolia&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argadewanata&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argadewanata&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argadewanata&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=argadewanata&theme=github_dark&utcOffset=7" />
 </p>
 
 ---
@@ -112,4 +118,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=argadewanata&label=Profile%20views&color=16b13d&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16B13D&height=120&section=footer" />
 </p>
