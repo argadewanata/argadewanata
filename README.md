@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B13D,100:0D1117&height=220&section=header&text=Rere%20Arga%20Dewanata&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20MLOps%20%C2%B7%20Data%20Engineering%20%C2%B7%20Robotics&descAlignY=58&descSize=15" />
-</p>   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B13D,100:0D1117&height=220&section=header&text=Rere%20Arga%20Dewanata&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20MCP%20Integrations%20%C2%B7%20RAG%20%C2%B7%20MLOps%20%C2%B7%20Fine-Tuning%20LLM&descAlignY=58&descSize=15" />
+</p>    
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=16B13D&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+%E2%9C%A8;Fine-tuning+Models+%26+MLOps+%F0%9F%8E%AF;Data+Engineering+with+Airflow+%26+Docker+%F0%9F%93%8A;Underwater+Vision+Robotics+with+ROS+%26+YOLO+%F0%9F%90%9F" alt="Typing SVG" /></a>
