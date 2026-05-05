@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B13D,100:0D1117&height=200&section=header&text=Rere%20Arga%20Dewanata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Informatics%20Engineering%20Graduate%20from%20ITS%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descSize=16" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B13D,100:0D1117&height=220&section=header&text=Rere%20Arga%20Dewanata&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20MLOps%20%C2%B7%20Data%20Engineering%20%C2%B7%20Robotics&descAlignY=58&descSize=15" />
+</p>   
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=16B13D&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+Systems+%E2%9C%A8;Data+Engineering+%F0%9F%93%8A;Underwater+Robotics+%F0%9F%90%9F" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=16B13D&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+LLM+Agents+%26+RAG+Pipelines+with+LangChain+%E2%9C%A8;Fine-tuning+Models+%26+MLOps+%F0%9F%8E%AF;Data+Engineering+with+Airflow+%26+Docker+%F0%9F%93%8A;Underwater+Vision+Robotics+with+ROS+%26+YOLO+%F0%9F%90%9F" alt="Typing SVG" /></a>
+</p>  
 
-<img align="right" alt="Coding" width="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+<img align="right" alt="Coding" width="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">  
 
-- 🔭 Building **LLM agents, RAG pipelines, and ML systems** as an AI Engineer
-- 🤖 Into **Agentic AI, MLOps, and scalable data pipelines**
-- 🐠 Previously built vision navigation for autonomous underwater robots
-- ⚡ Fun fact: I teach machines to chat, see, and swim
-- 📫 Reach me at **rerearga@gmail.com**
-
+- 🤖 Building **LLM agents, RAG pipelines & ML systems** in production. Fine-tuning models for accuracy & structure, designing retrieval architectures, MCP integration  
+- 📊 Designing **end-to-end data engineering pipelines**. ETL workflows with Apache Airflow, data lake/warehouse architectures, multi-source ingestion (PostgreSQL, MongoDB)  
+- ⚙️ Focus areas: **Agentic AI · RAG · MLOps · LLM Fine-tuning · Data Engineering · Observability** (MLflow, Langfuse)  
+- 🐠 Previously built **vision navigation for autonomous underwater robots** (ROS · YOLOv5 · STM32 · OpenCV · PyTorch)  
+- 🎓 Informatics Engineering Graduate @ **Institut Teknologi Sepuluh Nopember (ITS)** 🇮🇩  
+- ⚡ Fun fact: I teach machines to chat, see, and swim  
+- 📫 Reach me at **rerearga@gmail.com**  
 <br clear="right"/>
 
 ---
