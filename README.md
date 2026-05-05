@@ -3,7 +3,7 @@
 </p>   
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=16B13D&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+LLM+Agents+%26+RAG+Pipelines+with+LangChain+%E2%9C%A8;Fine-tuning+Models+%26+MLOps+%F0%9F%8E%AF;Data+Engineering+with+Airflow+%26+Docker+%F0%9F%93%8A;Underwater+Vision+Robotics+with+ROS+%26+YOLO+%F0%9F%90%9F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=16B13D&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+%E2%9C%A8;Fine-tuning+Models+%26+MLOps+%F0%9F%8E%AF;Data+Engineering+with+Airflow+%26+Docker+%F0%9F%93%8A;Underwater+Vision+Robotics+with+ROS+%26+YOLO+%F0%9F%90%9F" alt="Typing SVG" /></a>
 </p>  
 
 <img align="right" alt="Coding" width="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">  
